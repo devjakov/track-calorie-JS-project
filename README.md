@@ -7,6 +7,6 @@ I learned how to save important data I will use again and again into Arrays and 
 
 Overall it was a really fun project, took me a couple days and now I see what it takes to write even the most 'simple' application :D
 
-Great stuff, cheers
+link to finished project https://devjakov.github.io/track-calorie-JS-project/
 
-- Jakov
+Cheers, Jakov
